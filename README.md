@@ -1,4 +1,4 @@
-# Solutions 
+# Statistics Textbook Solutions 
 
 - Solutions that I made working as a TA in grad school. :teacher:
   
